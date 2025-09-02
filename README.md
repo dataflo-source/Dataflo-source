@@ -23,8 +23,9 @@ I specialize in turning data and workflows into smart, automated systems using *
 ## 🌍 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/flourish1/)  
 - [Portfolio](https://github.com/dataflo-source)  
-- ✉️ Email: ttlpflrsh2@gmail.com@email.com  
+- ✉️ Email: ttlpflrsh2@gmail.com
+  
 
 ---
 
-⭐️ From [@yourusername](https://github.com/yourusername)
+⭐️ From dataflo-source
